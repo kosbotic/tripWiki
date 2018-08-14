@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">tripWiki</string>
     <string name="testName">My Trip World</string>
-    <string name="addButton">Add</string>
+    <string name="addButton">Add Btton</string>
 </resources>
